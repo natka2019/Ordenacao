@@ -1,5 +1,5 @@
 # Ordenacao
-Algoritmo de ordenação Bubble Sort sem Scanner. Bem básico, é informado os números:
+Algoritmo de ordenação Bubble Sort em Java sem Scanner. Bem básico, é informado os números:
 
 ![image](https://user-images.githubusercontent.com/103225393/173909613-2b66edda-828a-4c0d-b409-1b63390e95c2.png)
 
